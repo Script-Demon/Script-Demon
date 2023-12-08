@@ -1,4 +1,4 @@
-
+<a href="https://visitorbadge.io/status?path=Script-Demon"><img src="https://api.visitorbadge.io/api/visitors?path=Script-Demon&labelColor=%232ccce4&countColor=%23263759" /></a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tanveermahmud0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-mahmud-cs/) 
 
