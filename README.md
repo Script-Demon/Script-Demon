@@ -1,5 +1,3 @@
-<img align="right" height="150" src="<img align="right" height="150" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"  />"  />
-
 <a href="https://visitorbadge.io/status?path=Script-Demon"><img src="https://api.visitorbadge.io/api/visitors?path=Script-Demon&labelColor=%232ccce4&countColor=%23263759" /></a>
 ## 🌐 Socials: <img align="right" height="150" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"  />
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tanveermahmud0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-mahmud-cs/) 
